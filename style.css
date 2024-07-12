@@ -1,0 +1,48 @@
+.heading{
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    color: rgb(211, 179, 115);
+    -webkit-text-stroke-color: rgb(20, 9, 9);
+    -webkit-text-stroke-width: 1px;
+    font-weight: bold;
+}
+form{
+    text-align: center;
+}
+.p3{
+    padding-left: 150px;
+    font-size: x-small;
+}
+#log{
+    background-color: rgb(211, 179, 115);
+    width: 160px;
+    height: 40px;
+}
+.card-img-top{
+    height: 700px;
+    width: 500px;
+}
+.card-img-overlay{
+    align-items: center;
+}
+.btns{
+    align-items: center;
+    margin: 40px;
+}
+h5{
+    margin: 20px;
+}
+.desc{
+    color: rgb(249, 243, 243);
+    font-weight: bold ;
+    font-size: 20px;
+    -webkit-text-stroke-color: rgb(18, 16, 16);
+    -webkit-text-stroke-width: 1px;
+    text-align: center;
+    margin-right: 730px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 1px;
+
+
+}
